@@ -222,6 +222,18 @@ ul {
 
   @media screen and (max-width: 640px) {
     .content {
-      width: 640px;
+      margin-left: 5%;
+      margin-right: 5%;
+      padding: 0%;
+      width: 90%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .content {
+      margin-left: 15%;
+      margin-right: 15%;
+      padding: 0%;
+      width: 70%;
     }
   }
